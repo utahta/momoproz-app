@@ -4,7 +4,7 @@
   "main": "main.js",
   "devDependencies": {
     "awesome-typescript-loader": "^3.2.2",
-    "electron": "1.7.5",
+    "electron": "1.8.8",
     "source-map-loader": "^0.2.1",
     "typescript": "^2.4.2",
     "webpack": "^3.5.4"
